@@ -26,8 +26,8 @@ Ce projet vise à résoudre la tâche de classification d'images dans le cadre d
 ## Instructions d'Exécution
 Pour exécuter le code, veuillez suivre ces étapes :
 
-Téléchrager les données de la compétition Kaggle dans un dossier data/.
-Ouvrez chaque fichier notebook dans Jupyter Notebook ou un autre environnement compatible.
-Exécutez les cellules de code une par une dans l'ordre chronologique.
-Assurez-vous d'avoir les dépendances nécessaires installées, telles que numpy, pandas, scikit-learn, etc.
-Certains notebooks peuvent avoir des sections spécifiques pour l'entraînement des modèles, veuillez suivre les instructions à l'intérieur de chaque notebook.
+- Téléchargez les données de la compétition Kaggle dans un dossier data/.
+- Ouvrez chaque fichier notebook dans Jupyter Notebook ou un autre environnement compatible.
+- Exécutez les cellules de code une par une dans l'ordre chronologique.
+- Assurez-vous d'avoir les dépendances nécessaires installées, telles que numpy, pandas, scikit-learn, etc.
+- Certains notebooks peuvent avoir des sections spécifiques pour l'entraînement des modèles, veuillez suivre les instructions à l'intérieur de chaque notebook.
