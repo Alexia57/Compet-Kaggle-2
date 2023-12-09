@@ -1,1 +1,11 @@
 data/
+
+results/
+
+models/
+
+images/
+
+.png
+
+.env
