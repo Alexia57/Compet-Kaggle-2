@@ -4,7 +4,7 @@
 Alexia Prevot et Tanias Mendes Dias
 
 ## Introduction
-Ce projet vise à résoudre la tâche de classification d'images dans le cadre de la compétition Kaggle. Nous avons implémenté plusieurs modèles, dont un classificateur bidon, un classificateur de forêts aléatoires, un réseau de neurones convolutif (CNN), ainsi que d'autres modèles tels que SVM, Adaboost et XGBoost.
+Ce projet vise à résoudre la tâche de classification d'images dans le cadre de la compétition Kaggle. Nous avons implémenté plusieurs modèles, dont un classificateur de forêts aléatoires, un réseau de neurones convolutif (CNN), ainsi que d'autres modèles tels que Adaboost et XGBoost.
 
 ## Contenu du Projet
 - Analyse des Données (analyse_donnees.ipynb): Ce notebook contient l'analyse initiale des données effectuée au début de la compétition pour obtenir une vue d'ensemble du problème.
